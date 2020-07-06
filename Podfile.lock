@@ -1,10 +1,9 @@
 PODS:
-  - CPTableView (0.1.0):
-    - Masonry
+  - CPKongTableView (0.1.0)
   - Masonry (1.1.0)
 
 DEPENDENCIES:
-  - CPTableView (from `CPBase/CPTableView`)
+  - CPKongTableView (from `CPBase/CPKongTableView`)
   - Masonry
 
 SPEC REPOS:
@@ -12,13 +11,13 @@ SPEC REPOS:
     - Masonry
 
 EXTERNAL SOURCES:
-  CPTableView:
-    :path: CPBase/CPTableView
+  CPKongTableView:
+    :path: CPBase/CPKongTableView
 
 SPEC CHECKSUMS:
-  CPTableView: a96a97241795aef6d9659a26dd2ff4e9854b07cc
+  CPKongTableView: 115617c5717a6d40c29b5cac27768ddb240ead0f
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
-PODFILE CHECKSUM: 40f5ce25479af2472a457cefb9b34a0f03f704d2
+PODFILE CHECKSUM: 54d6abe22ec804fc1c71ca40f96bf26b7633229e
 
 COCOAPODS: 1.9.3

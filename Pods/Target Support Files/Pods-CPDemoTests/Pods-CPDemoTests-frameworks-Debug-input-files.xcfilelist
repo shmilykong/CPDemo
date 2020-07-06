@@ -1,3 +1,3 @@
 ${PODS_ROOT}/Target Support Files/Pods-CPDemoTests/Pods-CPDemoTests-frameworks.sh
-${BUILT_PRODUCTS_DIR}/CPTableView/CPTableView.framework
+${BUILT_PRODUCTS_DIR}/CPKongTableView/CPKongTableView.framework
 ${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework

@@ -1,9 +1,9 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## CPTableView
+## CPKongTableView
 
-Copyright (c) 2020 cpkong <644961233@qq.com>
+Copyright (c) 2020 644961233@qq.com <644961233@qq.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
