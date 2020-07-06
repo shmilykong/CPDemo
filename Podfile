@@ -11,7 +11,7 @@ target 'CPDemo' do
   target 'CPDemoTests' do
     inherit! :search_paths
     # Pods for testing
-    pod 'CPKongTableView', :path => 'CPBase/CPKongTableView'
+    pod 'CPKongTableView'
     pod 'Masonry'
   end
 
