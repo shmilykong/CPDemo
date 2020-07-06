@@ -1,0 +1,6 @@
+framework module CPTableView {
+  umbrella header "CPTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,24 @@
+PODS:
+  - CPTableView (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CPTableView (from `CPBase/CPTableView`)
+  - Masonry
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  CPTableView:
+    :path: CPBase/CPTableView
+
+SPEC CHECKSUMS:
+  CPTableView: a96a97241795aef6d9659a26dd2ff4e9854b07cc
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 40f5ce25479af2472a457cefb9b34a0f03f704d2
+
+COCOAPODS: 1.9.3
